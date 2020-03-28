@@ -1,7 +1,7 @@
 ---
 title:  "Requesting a no-contact delivery"
 metadate: "hide"
-categories: [  ]
+categories: [ covid19, doordash, delivery, food ]
 image: "/assets/images/posts/Requestinganocontactdelivery_full.png"
 thumbnail: "/assets/images/posts/Requestinganocontactdelivery.png"
 ---
